@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "azan2",
+  "productName": "Azan",
   "version": "0.1.0",
   "identifier": "com.azan2.app",
   "build": {
@@ -10,7 +10,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "azan2",
+        "title": "Azan",
         "width": 800,
         "height": 600
       }
