@@ -1,7 +1,45 @@
-# Tauri + Vanilla
+# 🕌 Azan – Qibla & Namaz App
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+**Azan** is a Tauri-powered mobile app that helps Muslims worldwide stay connected to their faith by providing:
 
-## Recommended IDE Setup
+- 🕋 Qibla Direction
+- 🕰️ Accurate Namaz (Prayer) Times
+- 🚫 No Fullscreen Ads
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Available now on:
+
+| Platform       | Link                                                                                     |
+|----------------|------------------------------------------------------------------------------------------|
+| 📱 Play Store  | [Download on Play Store](https://play.google.com/store/apps/details?id=com.edgarni.azan) |
+
+---
+
+## 📌 Features
+
+| Feature             | Description                                 |
+|---------------------|---------------------------------------------|
+| 🧭 Qibla Finder      | Shows the direction of the Kaaba in Mecca   |
+| 🕒 Prayer Timings    | Auto-calculated based on location           |
+| 🌙 Simple UI         | Clean and user-friendly design              |
+| 🚫 No Fullscreen Ads | Distraction-free experience                 |
+
+---
+
+## 📦 Tech Stack
+
+| Stack         | Purpose                   |
+|---------------|---------------------------|
+| **Tauri**     | Cross-platform framework  |
+| **Rust**      | Backend logic             |
+| **Vanilla JS**| Core frontend logic       |
+| **Bootstrap** | UI styling                |
+
+---
+
+## 📥 Installation (Dev)
+
+```bash
+git clone https://github.com/yourusername/azan-tauri-app.git
+cd azan-tauri-app
+npm install
+npm run tauri dev

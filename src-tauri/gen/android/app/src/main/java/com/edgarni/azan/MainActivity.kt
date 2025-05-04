@@ -1,3 +1,3 @@
-package com.azan2.app
+package com.edgarni.azan
 
 class MainActivity : TauriActivity()
