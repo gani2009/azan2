@@ -39,7 +39,7 @@ Available now on:
 ## 📥 Installation (Dev)
 
 ```bash
-git clone https://github.com/yourusername/azan-tauri-app.git
+git clone https://github.com/gani2009/azan-tauri-app.git
 cd azan-tauri-app
 npm install
 npm run tauri dev
